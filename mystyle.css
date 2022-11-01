@@ -1,0 +1,47 @@
+html{
+    background-color: orchid;
+}
+
+
+h1{
+    text-align: center;
+    font: bold;
+  }
+
+  #landing{ 
+    font-size: 50px;
+    text-align: center;
+
+
+  }
+
+  img{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+   #earth1{
+    display: block;
+    margin-left: 100px;
+    width: 250px;
+    height: 250px;
+   }
+
+   #moon{
+    display: block;
+    margin-right: 100px;
+    width: 250px;
+    height: 250px;
+   }
+
+   .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
